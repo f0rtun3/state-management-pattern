@@ -441,7 +441,7 @@ determining exactly how each component should interact (_or not!_) with the stat
 
 ## Conclusion
 
-Hopefully, this has been helpful in providing a broad explanation of our state management strategy in our frontend apps,
+Hopefully, this has been helpful in providing a broad explanation of this simplified state management strategy for frontend apps,
 and showing each primary piece of its implementation. <!-- Not sure how to end this :] -->
 
 ### Additional Resources
