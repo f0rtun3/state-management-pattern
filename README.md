@@ -40,7 +40,7 @@ state-management-pattern/
 > It's worth noting that the examples of the `reducers` in this document will likely look different than implementations
 > of them in our codebase. This is because our reducers utilize a utility function we developed to make managing our
 > reducers more sustainable and scalable. This function is documented in the [Web Utilities](./WEB_UTILS.md) page, with
-> an [extended example](./WEB_UTILS.md#extended-example) that more closely reflects the structure of reducers in our
+> an [extended example](./COMBINED-REDUCERS.md#extended-example) that more closely reflects the structure of reducers in our
 > frontend. <br />
 
 ## Context and the Provider component
